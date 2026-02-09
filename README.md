@@ -97,6 +97,8 @@ Click the button above to deploy your own copy of Bagisto Headless eCommerce to 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bagisto/nextjs-commerce)
 
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository=https://github.com/bagisto/nextjs-commerce)
 ---
 
 **Vercel Setup**
